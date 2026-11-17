@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "name": "Atlas onboarding",
+      "owner": "Maya Chen",
+      "status": "On track",
+      "recentActivity": "New welcome-flow prototypes are ready for a team review.",
+      "priority": "High",
+      "summary": "Make the first week feel effortless for every new customer.",
+      "progress": 72,
+      "dueDate": "Nov 24",
+      "team": ["Maya Chen", "Jordan Rivera", "Taylor Kim"]
+    },
+    {
+      "name": "Northstar analytics",
+      "owner": "Jordan Rivera",
+      "status": "At risk",
+      "recentActivity": "The event pipeline is waiting on a data access review.",
+      "priority": "Critical",
+      "summary": "Bring product health and customer signals into one clear view.",
+      "progress": 46,
+      "dueDate": "Nov 20",
+      "team": ["Jordan Rivera", "Alex Lee", "Samira Khan"]
+    },
+    {
+      "name": "Mobile refresh",
+      "owner": "Samira Khan",
+      "status": "In progress",
+      "recentActivity": "The updated navigation is now available in the beta build.",
+      "priority": "Medium",
+      "summary": "A more focused mobile experience, built around daily workflows.",
+      "progress": 58,
+      "dueDate": "Dec 04",
+      "team": ["Samira Khan", "Maya Chen", "Dev Patel"]
+    },
+    {
+      "name": "Community hub",
+      "owner": "Alex Lee",
+      "status": "In review",
+      "recentActivity": "Final accessibility notes are being folded into the launch checklist.",
+      "priority": "High",
+      "summary": "Give customers a welcoming place to learn and share what works.",
+      "progress": 88,
+      "dueDate": "Nov 21",
+      "team": ["Alex Lee", "Taylor Kim", "Jordan Rivera"]
+    },
+    {
+      "name": "Billing simplification",
+      "owner": "Taylor Kim",
+      "status": "On track",
+      "recentActivity": "The revised invoice preview passed its first usability round.",
+      "priority": "Medium",
+      "summary": "Make plans, invoices, and payment details easier to understand.",
+      "progress": 35,
+      "dueDate": "Dec 15",
+      "team": ["Taylor Kim", "Dev Patel", "Maya Chen"]
+    },
+    {
+      "name": "Design system 2.0",
+      "owner": "Dev Patel",
+      "status": "In progress",
+      "recentActivity": "Core form patterns are documented and ready for adoption.",
+      "priority": "Low",
+      "summary": "A reliable foundation for consistent, accessible product interfaces.",
+      "progress": 64,
+      "dueDate": "Dec 09",
+      "team": ["Dev Patel", "Samira Khan", "Alex Lee"]
+    }
+  ]
+}
